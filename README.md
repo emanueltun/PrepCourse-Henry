@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio de prueba del prepcoourse Henry
+Este es un proyecto de prueba para clonar con Github
